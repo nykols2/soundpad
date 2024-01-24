@@ -10,3 +10,4 @@ Este é um projeto interativo desenvolvido com HTML, CSS e JavaScript, inspirado
 - Alura Cursos: JavaScript para Web
 
 ## 📂 Acesse o projeto
+[Acesse o projeto aqui](https://soundpad-nykol.vercel.app/)
